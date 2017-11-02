@@ -1,3 +1,3 @@
-# integrates
-jose donoso
+# integrantes
+jose donoso -
 carlos moscoso
